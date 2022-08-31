@@ -2,7 +2,7 @@
 Countdown to product special price to date. You may want to change the Vendor folder name.
 
 # DO NOT USE THIS EXTENSION IN A PRODUCTION ENVIRONMENT
-It has not bee fully tested it is simply an accompanyment to the crash course below.  
+It has not been fully tested it is simply an accompanyment to the crash course below.  
 
 
 ### Watch the full tutorial here
